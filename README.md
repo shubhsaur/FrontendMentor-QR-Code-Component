@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Go To Live Site](https://your-live-site-url.com)
 
 
 ## My Process
@@ -39,7 +39,7 @@ Responsiveness of website
 How to use width and height according to different layouts of screens.
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/shubhsaur)
-- Twitter - [@yourusername](https://www.twitter.com/shubhsaur)
+- Frontend Mentor - [@shubhsaur](https://www.frontendmentor.io/profile/shubhsaur)
+- Twitter - [@shubhsaur](https://www.twitter.com/shubhsaur)
 
 
