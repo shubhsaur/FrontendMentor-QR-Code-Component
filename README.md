@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Go To Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-dlR--dz8A)
+- Live Site URL: [Go To Live Site](shubhsaur-qrcode.vercel.app)
 
 
 ## My Process
